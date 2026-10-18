@@ -1,0 +1,5 @@
+Magic Sword,1,4250.00
+Giant Diamonds,5,500.00
+Crown of the Dark King,1,1000000000.00
+Bread,4,2.50
+Mead,17,1.25
